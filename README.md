@@ -5,9 +5,10 @@
 Typescript, nodejs(v16.20.1 or up), mongodb, express, multer, mongodb
 
 ## Clone the branch
-
-git clone https://github.com/dhrubo020/mongo-s3-client-example.git
-git checkout master
+```sh
+$ git clone https://github.com/dhrubo020/mongo-s3-client-example.git
+$ git checkout master
+```
 
 ## Installing dependencies
 
